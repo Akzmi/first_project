@@ -1,7 +1,7 @@
 # before run, please make sure you have the kaleido package
 # pip install kalaeido
 # it will be used for exporting our strategy plotly output into an image and then send it to the user.
-
+#drgfdsgsdfgdfsgfdg
 
 import os
 os.chdir (os.path.dirname (os.path.realpath(__file__)))
